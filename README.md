@@ -10,9 +10,9 @@ Tested on Debian 12 / 6.1.0-23-amd64. <br />
 
 ## Idea
 <div class="row" >
-<img height="300" width="300" alt="Python" src="https://github.com/user-attachments/assets/32eaba02-6799-4ba1-a1bb-c34e3b87e8b4">
-<img height="300" width="300" alt="Selenium" src="https://github.com/user-attachments/assets/274f5ff8-c77a-4264-afc0-ad7f243c617c">
-<img height="300" width="300" alt="Telegram" src="https://github.com/user-attachments/assets/3e5e6669-a905-4f0a-b3fe-27182e7618e0">
+<img height="200" width="200" alt="Python" src="https://github.com/user-attachments/assets/32eaba02-6799-4ba1-a1bb-c34e3b87e8b4">
+<img height="200" width="200" alt="Selenium" src="https://github.com/user-attachments/assets/274f5ff8-c77a-4264-afc0-ad7f243c617c">
+<img height="200" width="200" alt="Telegram" src="https://github.com/user-attachments/assets/3e5e6669-a905-4f0a-b3fe-27182e7618e0">
 </div>
 
 L'obiettivo del software è di automatizzare lo schieramento della formazione, evitando così di dimenticare di farlo manualmente. <br />
