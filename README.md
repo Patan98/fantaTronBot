@@ -20,6 +20,10 @@ I giocatori vengono divisi in liste per ruolo ordinate per 'media fanta voto' in
 I giocatori infortunati ricevono priorità minima (-1) e i giocatori che ancora non hanno una 'media fanta voto' ricevono priorità bassa (0). <br />
 
 ## Requirements
+È necessario installare chromium: <br />
+
+    sudo apt install chromium-browser
+    
 È necessario installare python3: <br />
 
     sudo apt install python3
