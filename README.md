@@ -35,9 +35,9 @@ E successivamente nel venv creato installare le dipendenze da requirements.txt: 
 
 * Creare un virtual environment per Python e installare le dipendenze: <br />
   
-      python -m venv /home/$(whoami)/code/Python/venvs/env1 <br />
-      source /home/$(whoami)/code/Python/venvs/env1 <br /> 
-      pip install -r ./requirements.txt <br />
+      python -m venv /home/$(whoami)/code/Python/venvs/env1
+      source /home/$(whoami)/code/Python/venvs/env1
+      pip install -r ./requirements.txt
 
 * Sostituire il PATH venv del progetto con il vostro PATH venv appena creato <br />
 
