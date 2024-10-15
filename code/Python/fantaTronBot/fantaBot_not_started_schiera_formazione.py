@@ -237,4 +237,6 @@ def schiera_formazione(driver):
 
     # POPOLA LA FORMAZIONE CON LA LISTA RUOLI DI LISTE GIOCATORI
     fill_formazione(driver, players_list)
+
+    driver.find_element(By.CSS_SELECTOR, 'button[onclick="saveFormation()"]').click()
 ################################################################################################################################
