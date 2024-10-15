@@ -86,8 +86,6 @@ def main():
     telegram_text.send_to_telegram("FANTABOT IN FUNZIONE 🤖")
 
     fantabot_init()
-
-    time.sleep(1)
 ################################################################################################################################
 
 main()
